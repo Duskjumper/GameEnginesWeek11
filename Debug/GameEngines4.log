@@ -1,0 +1,11 @@
+﻿  Camera.cpp
+  EngineCore.cpp
+  Timer.cpp
+D:\Game Programming Stuff\Game Engines 4\GameEngines4 - Copy\Engine\Core\Timer.cpp(20,32): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+  GameScene.cpp
+  FirstGame.cpp
+  Scenegraph.cpp
+  MaterialHandler.cpp
+  MaterialLoader.cpp
+  Generating Code...
+  GameEngines4.vcxproj -> D:\Game Programming Stuff\Game Engines 4\GameEngines4 - Copy\Debug\GameEngines4.exe
