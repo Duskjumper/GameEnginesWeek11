@@ -1,0 +1,4 @@
+[INFO]: OpenGL Version: 4.5.0 NVIDIA 461.09 in: Window.cpp on line 40
+[INFO]: Start scene  in: StartScene.cpp on line 11
+[INFO]: Everything is working in: EngineCore.cpp on line 47
+[INFO]: Creating GameScene in: GameScene.cpp on line 13
